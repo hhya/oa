@@ -1,0 +1,6 @@
+[ 2018-12-10T11:53:31+08:00 ] ::1 /oa/index.php/home/test
+ERR: 非法操作:index
+
+[ 2018-12-10T15:48:11+08:00 ] ::1 /oa/index.php/home/test/
+ERR: 非法操作:index
+

@@ -1,0 +1,60 @@
+[ 2018-09-04T15:55:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-09-04T15:55:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-09-04T16:01:39+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-09-04T16:01:39+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-09-04T16:01:41+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+ERR: 无法加载控制器:Knowledge
+
+[ 2018-09-04T16:01:44+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 无法加载控制器:Knowledge
+
+[ 2018-09-04T16:01:45+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 无法加载控制器:Knowledge
+
+[ 2018-09-04T16:01:45+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+ERR: 无法加载控制器:Knowledge
+
+[ 2018-09-04T16:01:46+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 无法加载控制器:Knowledge
+
+[ 2018-09-04T16:06:13+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 无法加载控制器:Knowledge
+
+[ 2018-09-04T16:06:15+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 无法加载控制器:Knowledge
+
+[ 2018-09-04T16:06:39+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 非法操作:add
+
+[ 2018-09-04T16:06:41+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 非法操作:add
+
+[ 2018-09-04T16:06:42+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2018-09-04T16:06:43+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 非法操作:add
+
+[ 2018-09-04T16:06:43+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2018-09-04T16:06:45+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2018-09-04T16:06:46+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 非法操作:add
+
+[ 2018-09-04T16:39:46+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 模板不存在:./Application/Admin/View/Knowledge/add.html
+
+[ 2018-09-04T16:39:48+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 模板不存在:./Application/Admin/View/Knowledge/add.html
+

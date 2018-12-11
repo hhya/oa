@@ -1,0 +1,12 @@
+[ 2018-09-12T18:01:34+08:00 ] 127.0.0.1 /index.php/Admin/public/login1
+ERR: 非法操作:login1
+
+[ 2018-09-12T18:05:07+08:00 ] 127.0.0.1 /index.php/Admin/public/login1
+ERR: 非法操作:login1
+
+[ 2018-09-12T18:19:19+08:00 ] 127.0.0.1 /index.php/Admin/public/loginw
+ERR: 非法操作:loginw
+
+[ 2018-09-12T18:19:26+08:00 ] 127.0.0.1 /index.php/Admin/public/loginq
+ERR: 非法操作:loginq
+

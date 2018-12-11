@@ -1,0 +1,24 @@
+[ 2018-08-26T11:34:29+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-08-26T15:45:26+08:00 ] ::1 /oa/Application/Admin/View/Doc/__ADMIN__/css/base.css
+ERR: 无法加载模块:Application
+
+[ 2018-08-26T15:45:26+08:00 ] ::1 /oa/Application/Admin/View/Doc/__ADMIN__/js/common.js
+ERR: 无法加载模块:Application
+
+[ 2018-08-26T15:45:26+08:00 ] ::1 /oa/Application/Admin/View/Doc/__ADMIN__/js/jquery.js
+ERR: 无法加载模块:Application
+
+[ 2018-08-26T15:45:26+08:00 ] ::1 /oa/Application/Admin/View/Doc/__ADMIN__/css/info-reg.css
+ERR: 无法加载模块:Application
+
+[ 2018-08-26T15:45:27+08:00 ] ::1 /oa/Application/Admin/View/Doc/__ADMIN__/js/WdatePicker.js
+ERR: 无法加载模块:Application
+
+[ 2018-08-26T15:45:27+08:00 ] ::1 /oa/Application/Admin/View/Doc/__ADMIN__/js/common.js
+ERR: 无法加载模块:Application
+
+[ 2018-08-26T15:45:27+08:00 ] ::1 /oa/Application/Admin/View/Doc/__ADMIN__/js/WdatePicker.js
+ERR: 无法加载模块:Application
+

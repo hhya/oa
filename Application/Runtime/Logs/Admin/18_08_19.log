@@ -1,0 +1,374 @@
+[ 2018-08-19T09:09:45+08:00 ] 127.0.0.1 /index.php/admin/dept/test
+ERR: 1146:Table 'db_oa.sp_userphp' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sp_userphp`
+
+[ 2018-08-19T09:29:25+08:00 ] 127.0.0.1 /index.php/admin/dept/login
+ERR: 非法操作:login
+
+[ 2018-08-19T09:30:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T09:30:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T09:38:06+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T09:38:06+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T09:39:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T09:39:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T10:29:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T10:29:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T11:24:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T11:24:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T11:24:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T11:27:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T11:27:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T11:37:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T11:37:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T12:22:50+08:00 ] 127.0.0.1 /index.php/Admin/Dept/del1
+ERR: 非法操作:del1
+
+[ 2018-08-19T12:23:37+08:00 ] 127.0.0.1 /index.php/Admin/Dept/del1
+ERR: 非法操作:del1
+
+[ 2018-08-19T12:24:13+08:00 ] 127.0.0.1 /index.php/Admin/Dept/del1
+ERR: 非法操作:del1
+
+[ 2018-08-19T12:24:50+08:00 ] 127.0.0.1 /index.php/Admin/Dept/del1
+ERR: 非法操作:del1
+
+[ 2018-08-19T12:24:57+08:00 ] 127.0.0.1 /index.php/Admin/Dept/del1
+ERR: 非法操作:del1
+
+[ 2018-08-19T12:26:51+08:00 ] 127.0.0.1 /index.php/Admin/Dept/del/id/1
+ERR: 非法操作:del
+
+[ 2018-08-19T12:32:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/del/id/10
+ERR: Think\Model:del方法不存在！
+
+[ 2018-08-19T12:32:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T12:32:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T12:32:30+08:00 ] 127.0.0.1 /index.php/Admin/Dept/del/id/10
+ERR: Think\Model:del方法不存在！
+
+[ 2018-08-19T13:07:05+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/1
+ERR: 1054:Unknown column 'Array.name' in 'where clause'
+ [ SQL语句 ] : UPDATE `sp_dept` SET `name`='人事部',`pid`='0',`sort`='1',`remark`='这是人事部666' WHERE ( name = Array.name )
+
+[ 2018-08-19T13:07:24+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/1
+ERR: 1054:Unknown column 'Array.name' in 'where clause'
+ [ SQL语句 ] : UPDATE `sp_dept` SET `name`='人事部',`pid`='0',`sort`='1',`remark`='这是人事部666' WHERE ( name = Array.name  )
+
+[ 2018-08-19T13:10:45+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/1
+ERR: 1054:Unknown column '人事部' in 'where clause'
+ [ SQL语句 ] : UPDATE `sp_dept` SET `name`='人事部',`pid`='0',`sort`='1',`remark`='这是人事部666' WHERE ( 人事部 )
+
+[ 2018-08-19T13:11:17+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/1
+ERR: 1054:Unknown column '人事部' in 'where clause'
+ [ SQL语句 ] : UPDATE `sp_dept` SET `name`='人事部',`pid`='0',`sort`='1',`remark`='这是人事部666' WHERE ( name = 人事部 )
+
+[ 2018-08-19T13:13:27+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/1
+ERR: 1054:Unknown column '人事部' in 'where clause'
+ [ SQL语句 ] : UPDATE `sp_dept` SET `name`='人事部',`pid`='0',`sort`='1',`remark`='这是人事部666' WHERE ( name = 人事部 )
+
+[ 2018-08-19T13:15:02+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/1
+ERR: 1054:Unknown column '人事部' in 'where clause'
+ [ SQL语句 ] : UPDATE `sp_dept` SET `name`='人事部',`pid`='0',`sort`='1',`remark`='这是人事部666' WHERE ( name = 人事部 )
+
+[ 2018-08-19T13:15:16+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/1
+ERR: 1054:Unknown column '人事部' in 'where clause'
+ [ SQL语句 ] : UPDATE `sp_dept` SET `name`='人事部',`id`='1',`pid`='0',`sort`='1',`remark`='这是人事部666' WHERE ( name = 人事部 )
+
+[ 2018-08-19T13:29:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T13:29:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:09:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:09:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:11:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:11:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:11:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:11:38+08:00 ] 127.0.0.1 /index.php/Admin/user
+ERR: 无法加载控制器:User
+
+[ 2018-08-19T15:14:37+08:00 ] 127.0.0.1 /index.php/Admin/user
+ERR: 非法操作:index
+
+[ 2018-08-19T15:15:22+08:00 ] 127.0.0.1 /index.php/Admin/user/oa
+ERR: 模板不存在:./Application/Admin/View/User/oa.html
+
+[ 2018-08-19T15:16:41+08:00 ] 127.0.0.1 /index.php/Admin/user/
+ERR: 非法操作:index
+
+[ 2018-08-19T15:16:46+08:00 ] 127.0.0.1 /index.php/Admin/user/oa
+ERR: 模板不存在:./Application/Admin/View/Public/index.html
+
+[ 2018-08-19T15:17:35+08:00 ] 127.0.0.1 /index.php/Admin/User/captcha
+ERR: 非法操作:captcha
+
+[ 2018-08-19T15:29:48+08:00 ] 127.0.0.1 /index.php/Admin/Dept/
+ERR: 非法操作:index
+
+[ 2018-08-19T15:29:58+08:00 ] 127.0.0.1 /index.php/Admin/user/index
+ERR: 非法操作:index
+
+[ 2018-08-19T15:30:05+08:00 ] 127.0.0.1 /index.php/Admin/user/oa
+ERR: 模板不存在:./Application/Admin/View/Dept/index.html
+
+[ 2018-08-19T15:30:59+08:00 ] 127.0.0.1 /index.php/Admin/User/home.html
+ERR: 非法操作:home
+
+[ 2018-08-19T15:31:05+08:00 ] 127.0.0.1 /index.php/Admin/User/home.html
+ERR: 非法操作:home
+
+[ 2018-08-19T15:31:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:31:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:31:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:33:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:33:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:33:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:33:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:35:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:35:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:35:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:35:06+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 非法操作:showList
+
+[ 2018-08-19T15:35:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:35:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:36:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:36:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:36:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:36:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/User.html
+ERR: 非法操作:User
+
+[ 2018-08-19T15:36:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:36:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:36:48+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 非法操作:showList
+
+[ 2018-08-19T15:36:49+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 非法操作:add
+
+[ 2018-08-19T15:40:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:40:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:43:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:43:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:44:16+08:00 ] 127.0.0.1 /index.php/Admin/User/css/base.css
+ERR: 非法操作:css
+
+[ 2018-08-19T15:44:16+08:00 ] 127.0.0.1 /index.php/Admin/User/css/info-reg.css
+ERR: 非法操作:css
+
+[ 2018-08-19T15:44:16+08:00 ] 127.0.0.1 /index.php/Admin/User/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:44:16+08:00 ] 127.0.0.1 /index.php/Admin/User/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:44:16+08:00 ] 127.0.0.1 /index.php/Admin/User/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:44:16+08:00 ] 127.0.0.1 /index.php/Admin/User/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:50:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:50:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:52:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:52:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:52:41+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/jquery.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:52:41+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/common.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:52:41+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/WdatePicker.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:52:41+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/css/info-reg.css
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:52:41+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/css/base.css
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:52:41+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/common.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:52:41+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/WdatePicker.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:23+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/css/base.css
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:23+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/common.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:23+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/css/info-reg.css
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:23+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/jquery.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:23+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/common.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:37+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/css/base.css
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:37+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/css/info-reg.css
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:37+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/jquery.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:37+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/common.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:39+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/css/info-reg.css
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:39+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/css/base.css
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:39+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/common.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:39+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/jquery.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:39+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/common.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:53:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:53:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-19T15:53:42+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/common.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:42+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/css/base.css
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:42+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/jquery.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:42+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/css/info-reg.css
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:42+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/common.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:58+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/jquery.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:58+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/common.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:58+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/css/base.css
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T15:53:58+08:00 ] 127.0.0.1 /index.php/Admin/User/__Admin__/js/common.js
+ERR: 非法操作:__Admin__
+
+[ 2018-08-19T16:07:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-19T16:07:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+

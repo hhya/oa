@@ -1,0 +1,6 @@
+[ 2018-08-04T12:46:38+08:00 ] 127.0.0.1 /index.php/admin/test?test7
+ERR: 无法加载控制器:Test
+
+[ 2018-08-04T12:46:48+08:00 ] 127.0.0.1 /index.php/admin/test/test7
+ERR: 无法加载控制器:Test
+

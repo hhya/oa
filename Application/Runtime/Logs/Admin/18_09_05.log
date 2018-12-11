@@ -1,0 +1,36 @@
+[ 2018-09-05T14:19:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-09-05T14:19:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-09-05T14:19:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-09-05T14:28:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-09-05T14:28:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-09-05T14:28:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-09-05T14:28:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-09-05T15:06:45+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: Think\Model:alterDate方法不存在！
+
+[ 2018-09-05T15:18:44+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: Think\Model:operateData方法不存在！
+
+[ 2018-09-05T15:20:02+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: Think\Model:operateData方法不存在！
+
+[ 2018-09-05T15:33:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-09-05T15:33:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+

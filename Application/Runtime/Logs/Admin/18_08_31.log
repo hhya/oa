@@ -1,0 +1,21 @@
+[ 2018-08-31T15:19:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-31T15:19:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-31T15:19:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-31T15:22:28+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showContent/id/15
+ERR: 非法操作:showContent
+
+[ 2018-08-31T17:20:57+08:00 ] 127.0.0.1 /index.php/Admin/Doc/mobile/
+ERR: 非法操作:mobile
+
+[ 2018-08-31T17:21:04+08:00 ] 127.0.0.1 /index.php/Admin/Doc/mobile/
+ERR: 非法操作:mobile
+
+[ 2018-08-31T17:23:10+08:00 ] 127.0.0.1 /index.php/Admin/Doc/mobile/
+ERR: 非法操作:mobile
+

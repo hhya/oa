@@ -1,0 +1,27 @@
+[ 2018-09-02T11:31:16+08:00 ] 127.0.0.1 /index.php/Admin/Doc
+ERR: 非法操作:index
+
+[ 2018-09-02T11:31:37+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/15
+ERR: 非法操作:edit
+
+[ 2018-09-02T11:31:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-09-02T11:31:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-09-02T11:32:06+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/1
+ERR: 非法操作:edit
+
+[ 2018-09-02T11:46:00+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/1
+ERR: 非法操作:edit
+
+[ 2018-09-02T16:35:06+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/1
+ERR: Think\Model:updateData方法不存在！
+
+[ 2018-09-02T17:34:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-09-02T17:34:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+

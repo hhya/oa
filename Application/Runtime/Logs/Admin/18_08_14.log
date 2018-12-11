@@ -1,0 +1,27 @@
+[ 2018-08-14T16:51:32+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha.html0.3089827147390444
+ERR: 非法操作:captcha.html0.3089827147390444
+
+[ 2018-08-14T16:51:35+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha.html0.5150717076013381
+ERR: 非法操作:captcha.html0.5150717076013381
+
+[ 2018-08-14T16:52:46+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha.html0.47675314571042215
+ERR: 非法操作:captcha.html0.47675314571042215
+
+[ 2018-08-14T16:53:08+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha.htmlundefined
+ERR: 非法操作:captcha.htmlundefined
+
+[ 2018-08-14T16:57:49+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha.html0.03411003349561681.html
+ERR: 非法操作:captcha.html0.03411003349561681
+
+[ 2018-08-14T17:01:26+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha.html/0.4587155710019808.html
+ERR: 非法操作:captcha.html
+
+[ 2018-08-14T17:01:57+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha.html/0.052506798670692856
+ERR: 非法操作:captcha.html
+
+[ 2018-08-14T17:02:41+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha.html/0.9553916272579535
+ERR: 非法操作:captcha.html
+
+[ 2018-08-14T17:09:11+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha.html0.26797460365309056
+ERR: 非法操作:captcha.html0.26797460365309056
+

@@ -1,0 +1,4 @@
+[ 2018-09-10T15:33:48+08:00 ] 127.0.0.1 /index.php/home/test/test19
+ERR: 1054:Unknown column 't1.depnt_id' in 'on clause'
+ [ SQL语句 ] : SELECT t1.*,t2.name as deptname FROM sp_user t1 left join sp_dept as t2 on t1.depnt_id = t2.id  
+

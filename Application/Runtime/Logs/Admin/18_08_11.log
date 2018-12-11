@@ -1,0 +1,12 @@
+[ 2018-08-11T11:26:19+08:00 ] 127.0.0.1 /index.php/admin/test/test10
+ERR: 无法加载控制器:Test
+
+[ 2018-08-11T15:40:55+08:00 ] 127.0.0.1 /index.php/admin/tesst
+ERR: 无法加载控制器:Tesst
+
+[ 2018-08-11T15:41:01+08:00 ] 127.0.0.1 /index.php/admin/test
+ERR: 无法加载控制器:Test
+
+[ 2018-08-11T15:41:13+08:00 ] 127.0.0.1 /index.php/admin/dept
+ERR: 非法操作:index
+

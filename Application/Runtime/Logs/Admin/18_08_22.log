@@ -1,0 +1,45 @@
+[ 2018-08-22T08:38:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-22T08:38:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-22T08:38:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-22T08:54:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-22T08:54:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-22T08:54:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-22T09:11:34+08:00 ] 127.0.0.1 /index.php/Admin/dept
+ERR: 非法操作:index
+
+[ 2018-08-22T09:11:40+08:00 ] 127.0.0.1 /index.php/Admin/public
+ERR: 非法操作:index
+
+[ 2018-08-22T09:11:44+08:00 ] 127.0.0.1 /index.php/Admin/public
+ERR: 非法操作:index
+
+[ 2018-08-22T09:11:55+08:00 ] 127.0.0.1 /index.php/Admin/Public
+ERR: 非法操作:index
+
+[ 2018-08-22T09:12:10+08:00 ] 127.0.0.1 /index.php/Admin/dept
+ERR: 非法操作:index
+
+[ 2018-08-22T09:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-22T09:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-22T13:13:37+08:00 ] 127.0.0.1 /index.php/Admin/del/id.html4
+ERR: 无法加载控制器:Del
+
+[ 2018-08-22T13:15:32+08:00 ] 127.0.0.1 /index.php/Admin/User/del.html4
+ERR: 非法操作:del.html4
+

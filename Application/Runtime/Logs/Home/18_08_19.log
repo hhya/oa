@@ -1,0 +1,12 @@
+[ 2018-08-19T15:04:07+08:00 ] 127.0.0.1 /index.php/home/test/test17
+ERR: 1146:Table 'db_oa.sp_userphp' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sp_userphp`
+
+[ 2018-08-19T15:05:09+08:00 ] 127.0.0.1 /index.php/home/test/test17
+ERR: 1146:Table 'db_oa.sp_userphp' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sp_userphp`
+
+[ 2018-08-19T15:05:10+08:00 ] 127.0.0.1 /index.php/home/test/test17
+ERR: 1146:Table 'db_oa.sp_userphp' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sp_userphp`
+

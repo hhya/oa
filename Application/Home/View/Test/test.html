@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h1>模板'常量'</h1>
+<h2>__ROOT__： ROOT表示当前网站地址</h2>
+<h2>__APP__： APP表示当前应用地址</h2>
+<h2>__URL__： URL和CONTROLLER相同</h2>
+<h2>__MODULE__： MODULE表示域名开始到分组模块结束的路由</h2>
+<h2>__CONTROLLER__：CONTROLLER表示域名开始到控制器结束的路由</h2>
+<h2>__ACTION__： ACTION表示域名开始到方法结束的路由</h2>
+<h2>__PUBLIC__： PUBLIC表示站点根目录下Public目录的路由</h2>
+<h2>__SELF__： SELF表示域名后开始直到路由最后（如果无参，则SELF和ACTION相同）</h2>
+<h2>__ADMIN__： 自定义模板常量</h2>
+<h2>
+<!-- 这是HTML中的注释（客户端） -->
+这是ThinkPHP中的行注释（服务器端）：{//行注释}<br>
+这是ThinkPHP中的块注释（服务器端）：{/*块注释*/}<br>
+<!-- 数组 -->
+数组逗号形式:{$arr.0}-{$arr.1}-{$arr.2}-{$arr.3}<br>
+数组括号形式:{$arr[0]}-{$arr[1]}-{$arr[2]}-{$arr[3]}<br>
+VOLIST循环形式:
+<volist name='arr' id='vo' mod='3'>
+	<eq name="mod" value="2">{$vo}-</eq>
+	<!-- {$i}.{$vo}- -->
+</volist>
+<br>
+FOREACH循环形式:
+<foreach name='arr' item='for'>
+	{$for}-
+</foreach>
+<br>
+<!-- 对象属性 -->
+对象冒号形式：{$obj:name}-{$obj:id}<br>
+对象箭头形式：{$obj->name}-{$obj->id}<br>
+<!-- ThinkPHP系统内置变量 -->
+$Think.cookie.PHPSESSID: {$Think.cookie.PHPSESSID}<br>
+$Think.config.DEFAULT_MODULE: {$Think.config.DEFAULT_MODULE}
+</h2>
+<h1>{$t|date='Y-m-d: H:i:s',###}</h1><hr>
+<h1>{$s|strtoupper|substr=0,5}</h1><hr>
+<h1>{$si|default='这个家伙很懒......'}</h1>
+<hr>
+<h1>
+	<!-- ThinkPHP的if语句中只有==、！=可以用，其它必须要用比较标签 -->
+<if condition='$val heq 8'>/
+	等于8
+<else/>
+	不等于8
+</if>
+</h1>
+</body>
+</html>

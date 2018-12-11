@@ -1,0 +1,18 @@
+[ 2018-09-07T11:24:06+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-09-07T11:24:06+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-09-07T11:24:06+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-09-07T11:40:29+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/download/id/2
+ERR: 非法操作:download
+
+[ 2018-09-07T15:31:58+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-09-07T15:31:58+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+

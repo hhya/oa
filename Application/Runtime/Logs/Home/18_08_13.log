@@ -1,0 +1,33 @@
+[ 2018-08-13T18:12:57+08:00 ] 127.0.0.1 /index.php?mm=home&ccc=test&aa=test16
+ERR: 非法操作:test16
+
+[ 2018-08-13T18:13:05+08:00 ] 127.0.0.1 /index.php?mm=home&ccc=test&aa=test16
+ERR: 非法操作:test16
+
+[ 2018-08-13T18:13:07+08:00 ] 127.0.0.1 /index.php?mm=home&ccc=test&aa=test16
+ERR: 非法操作:test16
+
+[ 2018-08-13T18:13:07+08:00 ] 127.0.0.1 /index.php?mm=home&ccc=test&aa=test16
+ERR: 非法操作:test16
+
+[ 2018-08-13T18:13:07+08:00 ] 127.0.0.1 /index.php?mm=home&ccc=test&aa=test16
+ERR: 非法操作:test16
+
+[ 2018-08-13T18:13:07+08:00 ] 127.0.0.1 /index.php?mm=home&ccc=test&aa=test16
+ERR: 非法操作:test16
+
+[ 2018-08-13T18:13:07+08:00 ] 127.0.0.1 /index.php?mm=home&ccc=test&aa=test16
+ERR: 非法操作:test16
+
+[ 2018-08-13T18:13:46+08:00 ] 127.0.0.1 /index.php?mm=home&ccc=test&aa=test16
+ERR: 非法操作:test16
+
+[ 2018-08-13T18:13:58+08:00 ] 127.0.0.1 /index.php?m=home&cc=test&a=test16
+ERR: 非法操作:index
+
+[ 2018-08-13T18:14:24+08:00 ] 127.0.0.1 /index.php?m=home&cc=test&a=test16
+ERR: 非法操作:test16
+
+[ 2018-08-13T18:14:34+08:00 ] 127.0.0.1 /index.php?m=home&cc=test&a=test16
+ERR: 非法操作:test16
+

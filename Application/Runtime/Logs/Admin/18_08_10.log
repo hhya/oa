@@ -1,0 +1,6 @@
+[ 2018-08-10T16:57:48+08:00 ] 127.0.0.1 /index.php/admin/dept/tes9
+ERR: 非法操作:tes9
+
+[ 2018-08-10T16:57:54+08:00 ] 127.0.0.1 /index.php/admin/dept/test9
+ERR: 非法操作:test9
+

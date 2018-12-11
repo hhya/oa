@@ -1,0 +1,33 @@
+[ 2018-09-10T12:01:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-09-10T12:01:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-09-10T13:57:14+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-09-10T13:57:14+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-09-10T13:57:14+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-09-10T13:57:14+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-09-10T17:12:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/download/id/3
+ERR: 非法操作:download
+
+[ 2018-09-10T17:13:03+08:00 ] 127.0.0.1 /index.php/Admin/Email/download/id/2
+ERR: 非法操作:download
+
+[ 2018-09-10T17:32:58+08:00 ] 127.0.0.1 /index.php/Admin/Email/add
+ERR: 非法操作:add
+
+[ 2018-09-10T17:33:15+08:00 ] 127.0.0.1 /index.php/Admin/Email/download/id/3
+ERR: 非法操作:download
+
+[ 2018-09-10T17:34:52+08:00 ] 127.0.0.1 /index.php/Admin/Email/download/id/3
+ERR: Think\Model:fine方法不存在！
+

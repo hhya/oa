@@ -1,0 +1,27 @@
+[ 2018-08-30T15:02:55+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-30T15:02:55+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-30T15:42:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-30T15:42:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-08-30T15:42:23+08:00 ] 127.0.0.1 /index.php/Admin/Doc/upload/id/12
+ERR: 非法操作:upload
+
+[ 2018-08-30T15:49:47+08:00 ] 127.0.0.1 /index.php/Admin/Doc/upload/id/14
+ERR: 非法操作:upload
+
+[ 2018-08-30T16:24:48+08:00 ] 127.0.0.1 /index.php/Admin/Doc
+ERR: 非法操作:index
+
+[ 2018-08-30T16:24:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-08-30T16:24:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
